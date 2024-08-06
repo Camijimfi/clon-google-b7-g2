@@ -12,6 +12,7 @@ Este proyecto fue desarrollado con el objetivo de replicar la interfaz de usuari
 Puedes ver una demostración del proyecto en el siguiente enlace: [Clon de Google](https://clon-google-b7-g2.vercel.app/)
 
 ### Vista general
+
 ![Google](assets/README/Google.png)
 
 
