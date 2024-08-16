@@ -59,7 +59,7 @@ main {
 
 #logo {
     padding-top: 18vh;
-    height: 120px;
+    height: 100px;
 }
 
 #buscador {
@@ -101,7 +101,7 @@ button {
     margin: 11px 4px;
     height: 36px;
     border-radius: 4px;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 button:hover {
@@ -121,12 +121,12 @@ a:hover {
 }
 
 header a {
-    font-size: 16px;
+    font-size: 15px;
     color: #1f1f1f;
 }
 
 footer a {
-    font-size: 17px;
+    font-size: 14px;
     color: #202124;
 }
 
